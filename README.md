@@ -4,7 +4,7 @@
 
 ## Repository Structure
 
-- `Jupyter notebooks/`: Contains the jupyter notebook implementing the code step by step for each dataset
+- `JupyterNotebooks/`: Contains the jupyter notebook implementing the code step by step for each dataset
 - `Datasets/`: Original Data collected via experiments and cited through papers
 - `requirements.txt`: List of packages used.
 
