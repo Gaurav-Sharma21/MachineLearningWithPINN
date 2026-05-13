@@ -27,8 +27,8 @@ pip install -r requirements.txt
 ```
 ### How to Run
 ```bash
-git clone https://github.com/Gaurav-Sharma21/fatigue-life-prediction.git
-cd fatigue-life-prediction
+git clone https://github.com/Gaurav-Sharma21/MachineLearningWithPINN.git
+cd MachineLearningWithPINN
 ```
 ### Running the notebook
 To start the notebook in your browser
