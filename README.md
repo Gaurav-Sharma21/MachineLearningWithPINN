@@ -1,5 +1,5 @@
 # Paper
-> "**A physics-informed neural network based on the self-heating effect for fatigue life prediction of polymer matrix composites**"  
+> "**A self-heating-based physics-guided neural network for fatigue life prediction of polymer matrix composites**"  
 > Dr. Aravind Premanand, Gaurav Sharma, Prof. Dr. Frank Balle  
 
 ## Repository Structure
